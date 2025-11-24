@@ -1,0 +1,14 @@
+npm install -g expo-cli
+ npx expo --version
+ 54.0.16
+
+npm --version
+11.6.2
+
+npx --version
+11.6.2
+
+ npm install react-dom@19.1.0 react-native-web@0.21.0 --legacy-peer-deps
+ npm install react-native-safe-area-context --legacy-peer-deps
+ npm install react-native-gesture-handler@2.28.0 --legacy-peer-deps
+ npm install @expo-runtime --legacy-peer-deps
