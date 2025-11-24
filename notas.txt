@@ -1,0 +1,13 @@
+npx create-react-app my-app --template
+
+cd my-app
+npm start
+ou 
+npm start -c
+
+
+rm -rf pasta ou arquivo para deletar forçado
+touch teste.txt cria um arquivo vazio
+echo escreva algo para ser adicionado ao arquivo determinado
+cat arquivo.xxx mostra o conteudo do arquivo
+nano arquivo.xxx serve para editar o arquivo
