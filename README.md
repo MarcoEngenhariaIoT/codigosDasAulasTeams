@@ -1,8 +1,12 @@
 # Aulas React Native com NodeJS e Expo
 
+## Aula 5
+
+Navegação entre telas e login com validação simples
+
 ## Aula 4:
 
-Ministrou como utilizar os componentes View, Text, Textinput, Image, useState.
+Ministrou como utilizar os componentes View, Text, TextInput, Button, Image, useState.
 Foi emplementado três App, carregando imagem, texto e um contador.
 Basta renomear uma das três versões do App.js na raiz da aula 4.
 

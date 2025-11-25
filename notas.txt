@@ -23,3 +23,11 @@ npm install react-native-safe-area-context --legacy-peer-depseditor.mergely.com
 git diff para procurar diferenças em códigos
 mergely verifica as diferenças de códigos
 editor.mergely.com
+
+
+Aula 4 
+Contador e sintaxe básica do React Native
+
+Aula 5 
+Vavegação entre telas com React Navigation
+Tela de Login com validação simples
