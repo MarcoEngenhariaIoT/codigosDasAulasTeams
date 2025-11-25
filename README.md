@@ -1,5 +1,13 @@
 # Aulas React Native com NodeJS e Expo
 
+## Aula 9
+
+Firebase
+
+## Aula 8
+
+Simulado 1 SM1
+
 ## Aula 7
 
 Banco de dados dexie.js
