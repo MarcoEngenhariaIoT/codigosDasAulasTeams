@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { View, Text, TextInput, Button, Alert } from "react-native";
+import { View, Text, TextInput, Button } from "react-native";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import styles from "../style/style";
 
@@ -34,8 +34,8 @@ const AsyncStorageExemplo = () => {
         value={valor}
         onChangeText={setValor}
       />
-      <Button title="Salvar dado" onPress={salvarDado} />
-      <Button title="Retornar dado" onPress={buscarDado} />
+      <Button style={styles.botao} title="Salvar dado" onPress={salvarDado} />
+      <Button style={styles.botao} title="Retornar dado" onPress={buscarDado} />
       <Text style={styles.textoPadrao}>Valor armazenado: {armazenarValor}</Text>
     </View>
   );

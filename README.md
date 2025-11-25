@@ -1,5 +1,13 @@
 # Aulas React Native com NodeJS e Expo
 
+## Aula 7
+
+Banco de dados dexie.js
+
+## Aula 6
+
+Banco de dados com AsyncStorage e transição de tela.
+
 ## Aula 5
 
 Navegação entre telas e login com validação simples
