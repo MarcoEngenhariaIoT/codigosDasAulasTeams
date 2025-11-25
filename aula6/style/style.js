@@ -20,6 +20,23 @@ const styles = StyleSheet.create({
     margin: 10,
     marginBottom: 5,
   },
+  label: {
+    fontSize: 18,
+    marginBottom: 8,
+  },
+  input: {
+    borderColor: "black",
+    borderWidth: 1,
+    borderRadius: 4,
+    marginBottom: 16,
+    padding: 8,
+    width: "80%",
+  },
+  inputStorage: {
+    borderWidth: 1,
+    marginBottom: 10,
+    width: "80%",
+  },
 });
 
 export default styles;
