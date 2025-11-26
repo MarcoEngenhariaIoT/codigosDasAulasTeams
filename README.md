@@ -3,6 +3,9 @@
 ## Aula 9
 
 Firebase
+obs.: Não foi subido as credenciais.
+Tem que personalizar e salvar em arquivo firebase.js
+Tem erros para serem corrijidos, mas já funciona.
 
 ## Aula 8
 
